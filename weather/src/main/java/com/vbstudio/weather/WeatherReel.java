@@ -9,9 +9,9 @@ import com.vbstudio.weather.preferences.WeatherPreferences;
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 
 
-public class Weather extends Application {
+public class WeatherReel extends Application {
 
-    public Weather() {
+    public WeatherReel() {
         super();
     }
 
